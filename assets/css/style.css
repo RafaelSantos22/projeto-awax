@@ -292,6 +292,11 @@ header {
     transition: 0.2s;
 }
 
+.projects-area a.button {
+    margin-left: 480px;
+    margin-top: 30px;
+}
+
 .section-projects-filters li:hover,
 .section-projects-filters li.active {
     border-bottom: 3px solid #b28756;
